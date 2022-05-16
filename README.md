@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm starting my Computer Sceince journey from Georgia State University as a freshman this fall.
+- 🔭 I'm starting my Computer Sceince journey from Georgia State University this fall.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on Python projects.
 - 🤔 I’m looking for help with tips on kickstarting my programming journey.
