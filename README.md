@@ -8,3 +8,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am an International Student from Nepal
 
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=motaphe&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
