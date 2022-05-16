@@ -7,4 +7,4 @@
 - 📫 How to reach me: Hit me up on any of my socials. - https://sreg.carrd.co/ 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am an International Student from Nepal
--->
+
