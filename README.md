@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I'm a Computer Sceince freshman at Georgia State University.
-- 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on Python projects.
+- 🌱 I’m currently learning Python and Linux.
+- 👯 I’m looking to collaborate on anything related to CS.
 - 🤔 I’m looking for CS internships for the Summer of 2023!
 - 📫 How to reach me: Hit me up on any of my socials. - https://sreg.carrd.co/ 
 - 😄 Pronouns: he/him
