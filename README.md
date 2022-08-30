@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **https://sreg.carrd.co/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y81THp4ZmzfF8SdJZjN8qM6GaAg4L7_N/view](https://drive.google.com/file/d/1Y81THp4ZmzfF8SdJZjN8qM6GaAg4L7_N/view)
-
 - ⚡ Fun fact: I am an International Student from Nepal
 
 
