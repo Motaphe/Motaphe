@@ -4,9 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/motaphe" target="blank"><img src="https://img.shields.io/twitter/follow/motaphe?logo=twitter&style=for-the-badge" alt="motaphe" /></a> </p>
 
-- 🌱 I’m currently learning **Python and Linux**
-
-- 🔭 I’m working towards completing [CS50P](https://github.com/code50/71585989)
+- 🌱 I’m currently learning **Python, Linux and Machine Learning**
 
 - 👯 I’m looking to collaborate on **anything CS related!**
 
