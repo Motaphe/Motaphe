@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python, Linux and Machine Learning**
 
-- 🤝 I’m actively looking for **hackathons and also internship opportunities starting Summer of 2023**
+- 🤝 I’m actively looking for **hackathons** and also **internship opportunities** starting **Summer of 2023**
 
 - 📫 How to reach me **https://sreg.carrd.co/**
 
