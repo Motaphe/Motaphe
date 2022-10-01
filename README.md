@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/motaphe" target="blank"><img src="https://img.shields.io/twitter/follow/motaphe?logo=twitter&style=for-the-badge" alt="motaphe" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Linux and Machine Learning**
+- 🌱 I’m currently learning **Python, Linux** and **Machine Learning**
 
 - 🤝 I’m actively looking for **hackathons** and also **internship opportunities** starting **Summer of 2023**
 
