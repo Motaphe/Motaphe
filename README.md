@@ -4,13 +4,12 @@
 
 <p align="left"> <a href="https://twitter.com/motaphe" target="blank"><img src="https://img.shields.io/twitter/follow/motaphe?logo=twitter&style=for-the-badge" alt="motaphe" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Linux** and **Machine Learning**
+- 🌱 I’m currently learning **Python** and **GNU/Linux** 
 
-- 🤝 I’m actively looking for **hackathons** and also **internship opportunities** starting **Summer of 2023**
+- 🤝 I’m actively looking for **internship opportunities** starting **Summer of 2023**
 
 - 📫 How to reach me **https://sreg.carrd.co/**
 
-- ⚡ Fun fact: I am an International Student from Nepal
 
 
 <h3 align="left">Languages and Tools:</h3>
