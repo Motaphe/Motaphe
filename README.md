@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **https://sreg.carrd.co/**
 
+- <p><a href="https://www.githubtrends.io/wrapped/Motaphe">My Github Wrapped 2022</a></p> 
+
 
 
 <h3 align="left">Languages and Tools:</h3>
