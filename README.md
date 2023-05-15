@@ -6,9 +6,9 @@
 
 - 🌱 I’m proficient in **Python** and **GNU/Linux** 
 
-- 🤝 I’m actively looking for **internship opportunities** starting **Summer of 2023**
+- 🤝 I’m actively looking for **internship opportunities** for **Summer of 2023**
 
-- 📫 How to reach me **https://sreg.carrd.co/**
+- 📫 How to reach me **https://motaphe.github.io/**
 
 - <p><a href="https://www.githubtrends.io/wrapped/Motaphe">My Github Wrapped 2022</a></p> 
 
