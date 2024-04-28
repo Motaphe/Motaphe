@@ -6,7 +6,7 @@
 
 - 🌱 I’m proficient in **Python** and **GNU/Linux** 
 
-- 🤝 I’m actively looking for **internship opportunities** for **Summer of 2023**
+- 🤝 I’m actively looking for **internship opportunities** for **Summer of 2025**
 
 - 📫 How to reach me **https://motaphe.github.io/**
 
