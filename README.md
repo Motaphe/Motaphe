@@ -14,8 +14,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=o6sw9n29nbyhkqdwwasvhzayo&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=o6sw9n29nbyhkqdwwasvhzayo&redirect=true)
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=motaphe&show_icons=true&locale=en&theme=aura" alt="motaphe" /></p>
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=motaphe&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D" alt="motaphe" /></p>
