@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/motaphe" target="blank"><img src="https://img.shields.io/twitter/follow/motaphe?logo=twitter&style=for-the-badge" alt="motaphe" /></a> </p>
 
-- 🌱 I’m proficient in **Python** and **GNU/Linux** 
+- 🌱 I’m proficient in **Python** and **Unix** 
 
 - 📫 How to reach me **https://motaphe.github.io/**
 
