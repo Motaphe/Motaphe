@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Suzal</h1>
-<h3 align="center">A Computer Science Freshman at Georgia State University</h3>
+<h3 align="center">A Computer Science Junior at Georgia State University</h3>
 
 
 <p align="left"> <a href="https://twitter.com/motaphe" target="blank"><img src="https://img.shields.io/twitter/follow/motaphe?logo=twitter&style=for-the-badge" alt="motaphe" /></a> </p>
 
 - 🌱 I’m proficient in **Python** and **GNU/Linux** 
-
-- 🤝 I’m actively looking for **internship opportunities** for **Summer of 2025**
 
 - 📫 How to reach me **https://motaphe.github.io/**
 
