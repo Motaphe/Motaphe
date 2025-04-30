@@ -16,7 +16,7 @@
 ### Building Now
 - **Thriftopedia** — vintage-fashion search engine  
 - **Jarvis** — local-first automation assistant (Whisper + Mistral + Kokoro)
-- **dotFiles** — modular Unix rice *(currently ricing **Hyprland**)*  
+- **dotFiles** — modular Unix rice *(currently ricing **Hyprland** & **AeroSpace**)*  
 
 ### Toolbelt
 <p align="center">
