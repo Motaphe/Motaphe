@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Suzal 👋</h1>
-<p align="center">CS Senior&nbsp;•&nbsp;Backend&nbsp;Developer&nbsp;•&nbsp;Unix&nbsp;Ricer</p>
+<p align="center">CS Senior&nbsp;•&nbsp;Backend Developer&nbsp;•&nbsp;Unix Ricer</p>
 
 <p align="center">
   <a href="https://motaphe.github.io">Portfolio</a>&nbsp;•&nbsp;
@@ -15,17 +15,17 @@
 
 ### Building Now
 - **Thriftopedia** — vintage-fashion search engine  
-- **Jarvis** — local-first automation assistant (Whisper + Mistral + Kokoro)
+- **Jarvis** — local-first automation assistant (Whisper + Mistral + Kokoro)  
 - **dotFiles** — modular Unix rice *(currently ricing **Hyprland** & **AeroSpace**)*  
 
 ### Toolbelt
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="38" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="38" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="Typescript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" alt="Linux" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="48" alt="Docker" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="48" alt="PostgreSQL" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" alt="React" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" alt="TypeScript" />
 </p>
 
 ### GitHub at a Glance
