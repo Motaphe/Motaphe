@@ -10,8 +10,7 @@
 ---
 
 ### Work
-- **Software Engineer Intern @ Paramount** — shipping REST APIs, automating recruiting flows, & running containerized services on Azure  
-- **Research Assistant @ ARCTIC** — optimizing AI/ML pipelines on HPC & cloud; building the Proflex portal for on-demand HPC & LLM access  
+- **Lead Software Engineer @ Paramount** — Only engineer at the table, from whiteboard to production.   
 
 ### Building Now
 - **Thriftopedia** — vintage-fashion search engine  
